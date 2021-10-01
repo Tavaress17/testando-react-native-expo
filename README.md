@@ -1,1 +1,1 @@
-"# testando-react-native-expo" 
+"Aprendizado de React Native com Expo" 
